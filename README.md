@@ -53,3 +53,19 @@ Solutions are added as I solve and submit problems on LeetCode.
 ---
 
 ⭐ Thanks for visiting my repository!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MSAHITHI76/Daily_Code/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MSAHITHI76/Daily_Code/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MSAHITHI76/Daily_Code/tree/master/0002-add-two-numbers) |
+<!---LeetCode Topics End-->
