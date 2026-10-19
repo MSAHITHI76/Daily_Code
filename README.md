@@ -68,4 +68,16 @@ Solutions are added as I solve and submit problems on LeetCode.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MSAHITHI76/Daily_Code/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/MSAHITHI76/Daily_Code/tree/master/2089-find-target-indices-after-sorting-array) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/MSAHITHI76/Daily_Code/tree/master/2089-find-target-indices-after-sorting-array) |
+## Sorting
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/MSAHITHI76/Daily_Code/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
