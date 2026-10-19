@@ -6,6 +6,7 @@ class Solution {
         int lessCount = 0;
         int targetCount = 0;
         
+        // Count elements smaller than target and equal to target
         for (int num : nums) {
             if (num < target) {
                 lessCount++;
@@ -14,6 +15,7 @@ class Solution {
             }
         }
         
+        // Build the result list with consecutive indices
         List<Integer> result = new ArrayList<>();
         for (int i = 0; i < targetCount; i++) {
             result.add(lessCount + i);
