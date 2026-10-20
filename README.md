@@ -72,6 +72,7 @@ Solutions are added as I solve and submit problems on LeetCode.
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MSAHITHI76/Daily_Code/tree/master/0014-longest-common-prefix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MSAHITHI76/Daily_Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MSAHITHI76/Daily_Code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/MSAHITHI76/Daily_Code/tree/master/3886-sum-of-sortable-integers) |
@@ -89,4 +90,12 @@ Solutions are added as I solve and submit problems on LeetCode.
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MSAHITHI76/Daily_Code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/MSAHITHI76/Daily_Code/tree/master/3886-sum-of-sortable-integers) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MSAHITHI76/Daily_Code/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MSAHITHI76/Daily_Code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
