@@ -93,10 +93,19 @@ Solutions are added as I solve and submit problems on LeetCode.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MSAHITHI76/Daily_Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/MSAHITHI76/Daily_Code/tree/master/0014-longest-common-prefix) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/MSAHITHI76/Daily_Code/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MSAHITHI76/Daily_Code/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MSAHITHI76/Daily_Code/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MSAHITHI76/Daily_Code/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
