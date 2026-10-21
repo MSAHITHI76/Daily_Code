@@ -94,6 +94,7 @@ Solutions are added as I solve and submit problems on LeetCode.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MSAHITHI76/Daily_Code/tree/master/0014-longest-common-prefix) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/MSAHITHI76/Daily_Code/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Trie
 |  |
 | ------- |
