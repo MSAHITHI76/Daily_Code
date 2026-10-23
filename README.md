@@ -76,6 +76,7 @@ Solutions are added as I solve and submit problems on LeetCode.
 | [0014-longest-common-prefix](https://github.com/MSAHITHI76/Daily_Code/tree/master/0014-longest-common-prefix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MSAHITHI76/Daily_Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MSAHITHI76/Daily_Code/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/MSAHITHI76/Daily_Code/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3886-sum-of-sortable-integers](https://github.com/MSAHITHI76/Daily_Code/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/MSAHITHI76/Daily_Code/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
@@ -119,4 +120,8 @@ Solutions are added as I solve and submit problems on LeetCode.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MSAHITHI76/Daily_Code/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/MSAHITHI76/Daily_Code/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
