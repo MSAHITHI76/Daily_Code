@@ -75,6 +75,7 @@ Solutions are added as I solve and submit problems on LeetCode.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MSAHITHI76/Daily_Code/tree/master/0014-longest-common-prefix) |
+| [1254-number-of-closed-islands](https://github.com/MSAHITHI76/Daily_Code/tree/master/1254-number-of-closed-islands) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MSAHITHI76/Daily_Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MSAHITHI76/Daily_Code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/MSAHITHI76/Daily_Code/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -126,4 +127,20 @@ Solutions are added as I solve and submit problems on LeetCode.
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/MSAHITHI76/Daily_Code/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/MSAHITHI76/Daily_Code/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/MSAHITHI76/Daily_Code/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/MSAHITHI76/Daily_Code/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/MSAHITHI76/Daily_Code/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
