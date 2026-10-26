@@ -64,6 +64,7 @@ Solutions are added as I solve and submit problems on LeetCode.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MSAHITHI76/Daily_Code/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/MSAHITHI76/Daily_Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MSAHITHI76/Daily_Code/tree/master/0009-palindrome-number) |
 | [2409-count-days-spent-together](https://github.com/MSAHITHI76/Daily_Code/tree/master/2409-count-days-spent-together) |
 | [3886-sum-of-sortable-integers](https://github.com/MSAHITHI76/Daily_Code/tree/master/3886-sum-of-sortable-integers) |
