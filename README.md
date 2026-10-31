@@ -81,6 +81,7 @@ Solutions are added as I solve and submit problems on LeetCode.
 | [2778-sum-of-squares-of-special-elements](https://github.com/MSAHITHI76/Daily_Code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MSAHITHI76/Daily_Code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/MSAHITHI76/Daily_Code/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/MSAHITHI76/Daily_Code/tree/master/3665-twisted-mirror-path-count) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/MSAHITHI76/Daily_Code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/MSAHITHI76/Daily_Code/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/MSAHITHI76/Daily_Code/tree/master/3886-sum-of-sortable-integers) |
@@ -156,10 +157,12 @@ Solutions are added as I solve and submit problems on LeetCode.
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/MSAHITHI76/Daily_Code/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MSAHITHI76/Daily_Code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/MSAHITHI76/Daily_Code/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/MSAHITHI76/Daily_Code/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [3665-twisted-mirror-path-count](https://github.com/MSAHITHI76/Daily_Code/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/MSAHITHI76/Daily_Code/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
 |  |
