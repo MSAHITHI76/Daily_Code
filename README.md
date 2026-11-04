@@ -69,6 +69,7 @@ Solutions are added as I solve and submit problems on LeetCode.
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/MSAHITHI76/Daily_Code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MSAHITHI76/Daily_Code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2409-count-days-spent-together](https://github.com/MSAHITHI76/Daily_Code/tree/master/2409-count-days-spent-together) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MSAHITHI76/Daily_Code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3886-sum-of-sortable-integers](https://github.com/MSAHITHI76/Daily_Code/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
 |  |
@@ -83,6 +84,7 @@ Solutions are added as I solve and submit problems on LeetCode.
 | [1254-number-of-closed-islands](https://github.com/MSAHITHI76/Daily_Code/tree/master/1254-number-of-closed-islands) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MSAHITHI76/Daily_Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MSAHITHI76/Daily_Code/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MSAHITHI76/Daily_Code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MSAHITHI76/Daily_Code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/MSAHITHI76/Daily_Code/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/MSAHITHI76/Daily_Code/tree/master/3665-twisted-mirror-path-count) |
@@ -123,10 +125,12 @@ Solutions are added as I solve and submit problems on LeetCode.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MSAHITHI76/Daily_Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MSAHITHI76/Daily_Code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MSAHITHI76/Daily_Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MSAHITHI76/Daily_Code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Stack
 |  |
 | ------- |
@@ -167,6 +171,7 @@ Solutions are added as I solve and submit problems on LeetCode.
 ## Dynamic Programming
 |  |
 | ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MSAHITHI76/Daily_Code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/MSAHITHI76/Daily_Code/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/MSAHITHI76/Daily_Code/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
@@ -192,6 +197,7 @@ Solutions are added as I solve and submit problems on LeetCode.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MSAHITHI76/Daily_Code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/MSAHITHI76/Daily_Code/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
