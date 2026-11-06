@@ -83,6 +83,7 @@ Solutions are added as I solve and submit problems on LeetCode.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MSAHITHI76/Daily_Code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/MSAHITHI76/Daily_Code/tree/master/1254-number-of-closed-islands) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MSAHITHI76/Daily_Code/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2747-count-zero-request-servers](https://github.com/MSAHITHI76/Daily_Code/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MSAHITHI76/Daily_Code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MSAHITHI76/Daily_Code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MSAHITHI76/Daily_Code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -101,6 +102,7 @@ Solutions are added as I solve and submit problems on LeetCode.
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MSAHITHI76/Daily_Code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MSAHITHI76/Daily_Code/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2747-count-zero-request-servers](https://github.com/MSAHITHI76/Daily_Code/tree/master/2747-count-zero-request-servers) |
 | [3886-sum-of-sortable-integers](https://github.com/MSAHITHI76/Daily_Code/tree/master/3886-sum-of-sortable-integers) |
 ## Enumeration
 |  |
@@ -125,11 +127,13 @@ Solutions are added as I solve and submit problems on LeetCode.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MSAHITHI76/Daily_Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2747-count-zero-request-servers](https://github.com/MSAHITHI76/Daily_Code/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MSAHITHI76/Daily_Code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MSAHITHI76/Daily_Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2747-count-zero-request-servers](https://github.com/MSAHITHI76/Daily_Code/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MSAHITHI76/Daily_Code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Stack
 |  |
