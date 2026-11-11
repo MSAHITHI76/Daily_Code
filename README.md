@@ -70,6 +70,7 @@ Solutions are added as I solve and submit problems on LeetCode.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MSAHITHI76/Daily_Code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2409-count-days-spent-together](https://github.com/MSAHITHI76/Daily_Code/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MSAHITHI76/Daily_Code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/MSAHITHI76/Daily_Code/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3886-sum-of-sortable-integers](https://github.com/MSAHITHI76/Daily_Code/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
 |  |
@@ -221,4 +222,8 @@ Solutions are added as I solve and submit problems on LeetCode.
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/MSAHITHI76/Daily_Code/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Greedy
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/MSAHITHI76/Daily_Code/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
