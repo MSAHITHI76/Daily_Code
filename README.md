@@ -88,6 +88,7 @@ Solutions are added as I solve and submit problems on LeetCode.
 | [2089-find-target-indices-after-sorting-array](https://github.com/MSAHITHI76/Daily_Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2747-count-zero-request-servers](https://github.com/MSAHITHI76/Daily_Code/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MSAHITHI76/Daily_Code/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/MSAHITHI76/Daily_Code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MSAHITHI76/Daily_Code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MSAHITHI76/Daily_Code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/MSAHITHI76/Daily_Code/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -138,11 +139,13 @@ Solutions are added as I solve and submit problems on LeetCode.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MSAHITHI76/Daily_Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2747-count-zero-request-servers](https://github.com/MSAHITHI76/Daily_Code/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/MSAHITHI76/Daily_Code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MSAHITHI76/Daily_Code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MSAHITHI76/Daily_Code/tree/master/0020-valid-parentheses) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/MSAHITHI76/Daily_Code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -198,6 +201,7 @@ Solutions are added as I solve and submit problems on LeetCode.
 ## Segment Tree
 |  |
 | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/MSAHITHI76/Daily_Code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/MSAHITHI76/Daily_Code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Graph Theory
 |  |
@@ -226,4 +230,16 @@ Solutions are added as I solve and submit problems on LeetCode.
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/MSAHITHI76/Daily_Code/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/MSAHITHI76/Daily_Code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/MSAHITHI76/Daily_Code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/MSAHITHI76/Daily_Code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
