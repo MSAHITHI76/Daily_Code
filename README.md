@@ -123,6 +123,7 @@ Solutions are added as I solve and submit problems on LeetCode.
 | [0020-valid-parentheses](https://github.com/MSAHITHI76/Daily_Code/tree/master/0020-valid-parentheses) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/MSAHITHI76/Daily_Code/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/MSAHITHI76/Daily_Code/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/MSAHITHI76/Daily_Code/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/MSAHITHI76/Daily_Code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/MSAHITHI76/Daily_Code/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/MSAHITHI76/Daily_Code/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -185,6 +186,7 @@ Solutions are added as I solve and submit problems on LeetCode.
 ## Dynamic Programming
 |  |
 | ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/MSAHITHI76/Daily_Code/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MSAHITHI76/Daily_Code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/MSAHITHI76/Daily_Code/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/MSAHITHI76/Daily_Code/tree/master/3693-climbing-stairs-ii) |
@@ -250,4 +252,8 @@ Solutions are added as I solve and submit problems on LeetCode.
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/MSAHITHI76/Daily_Code/tree/master/3364-minimum-positive-sum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/MSAHITHI76/Daily_Code/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 <!---LeetCode Topics End-->
