@@ -88,6 +88,7 @@ Solutions are added as I solve and submit problems on LeetCode.
 | [2089-find-target-indices-after-sorting-array](https://github.com/MSAHITHI76/Daily_Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2747-count-zero-request-servers](https://github.com/MSAHITHI76/Daily_Code/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MSAHITHI76/Daily_Code/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/MSAHITHI76/Daily_Code/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/MSAHITHI76/Daily_Code/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/MSAHITHI76/Daily_Code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MSAHITHI76/Daily_Code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -124,6 +125,7 @@ Solutions are added as I solve and submit problems on LeetCode.
 | [2243-calculate-digit-sum-of-a-string](https://github.com/MSAHITHI76/Daily_Code/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/MSAHITHI76/Daily_Code/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/MSAHITHI76/Daily_Code/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/MSAHITHI76/Daily_Code/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/MSAHITHI76/Daily_Code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/MSAHITHI76/Daily_Code/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/MSAHITHI76/Daily_Code/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -136,6 +138,7 @@ Solutions are added as I solve and submit problems on LeetCode.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MSAHITHI76/Daily_Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2747-count-zero-request-servers](https://github.com/MSAHITHI76/Daily_Code/tree/master/2747-count-zero-request-servers) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/MSAHITHI76/Daily_Code/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MSAHITHI76/Daily_Code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sliding Window
 |  |
@@ -164,6 +167,7 @@ Solutions are added as I solve and submit problems on LeetCode.
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/MSAHITHI76/Daily_Code/tree/master/1254-number-of-closed-islands) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/MSAHITHI76/Daily_Code/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MSAHITHI76/Daily_Code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/MSAHITHI76/Daily_Code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
@@ -198,6 +202,7 @@ Solutions are added as I solve and submit problems on LeetCode.
 ## Tree
 |  |
 | ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/MSAHITHI76/Daily_Code/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/MSAHITHI76/Daily_Code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
