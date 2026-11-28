@@ -101,6 +101,7 @@ Solutions are added as I solve and submit problems on LeetCode.
 | [3886-sum-of-sortable-integers](https://github.com/MSAHITHI76/Daily_Code/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/MSAHITHI76/Daily_Code/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/MSAHITHI76/Daily_Code/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/MSAHITHI76/Daily_Code/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,6 +113,7 @@ Solutions are added as I solve and submit problems on LeetCode.
 | [2089-find-target-indices-after-sorting-array](https://github.com/MSAHITHI76/Daily_Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2747-count-zero-request-servers](https://github.com/MSAHITHI76/Daily_Code/tree/master/2747-count-zero-request-servers) |
 | [3886-sum-of-sortable-integers](https://github.com/MSAHITHI76/Daily_Code/tree/master/3886-sum-of-sortable-integers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/MSAHITHI76/Daily_Code/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -225,6 +227,7 @@ Solutions are added as I solve and submit problems on LeetCode.
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/MSAHITHI76/Daily_Code/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/MSAHITHI76/Daily_Code/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MSAHITHI76/Daily_Code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/MSAHITHI76/Daily_Code/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/MSAHITHI76/Daily_Code/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
@@ -244,6 +247,7 @@ Solutions are added as I solve and submit problems on LeetCode.
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/MSAHITHI76/Daily_Code/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/MSAHITHI76/Daily_Code/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/MSAHITHI76/Daily_Code/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Queue
 |  |
 | ------- |
